@@ -6,6 +6,7 @@ A simple JavaScript utility to generate dummy text using the `lorem-ipsum` libra
 It can create random words, sentences, and paragraphs dynamically.
 
 ---
+live: https://text-generator-three-nu.vercel.app/
 
 ## ⚙️ Installation
 
